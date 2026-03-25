@@ -1,21 +1,36 @@
 # Hi, I'm Abu Sufian 👋
 
-### 🎯 Class 11 Student | AI Engineering Researcher | Bangladesh
+### 格物致知 — Investigate things to gain knowledge
 
-I build AI and remote sensing projects focused on Bangladesh's
-environmental challenges — working toward a scholarship in AI
+> Class 11 Student | AI & Remote Sensing Researcher | Bangladesh
+
+I build AI projects that solve real environmental and social
+problems in Bangladesh — working toward a scholarship in AI
 Engineering at a globally recognized research university.
 
 ---
 
-## 🛰️ Research Projects
+## 🛰️ Research Portfolio
 
-| Project | Description | Tools | Link |
+### 🌊 Flood Intelligence Series
+| Project | Description | Accuracy | Link |
 |---|---|---|---|
-| 🌊 Water Quality ML | NH4 pollution analysis (1996-2019) | Python, sklearn | [GitHub](https://github.com/abusufian-dev/river-water-quality-ml) |
-| 🌳 Remote Sensing & AI | Sundarbans deforestation + flood mapping | GEE, Landsat 8 | [GitHub](https://github.com/abusufian-dev/remote-sensing-bd) |
-| 🤖 Flood-Prone Prediction | 92.63% accuracy flood zone ML model | Sentinel-1, SAR | [GitHub](https://github.com/abusufian-dev/flood-prone-prediction-bd) |
-| 🌍 Flood Risk Checker | Live app — all 64 districts of Bangladesh | Gradio, GEE | [Live App](https://huggingface.co/spaces/abusufian-dev/bangladesh-flood-risk-checker) |
+| Flood-Prone Prediction | SAR + Random Forest | 92.63% | [GitHub](https://github.com/abusufian-dev/flood-prone-prediction-bd) |
+| Flood Risk Checker | Live app — 64 districts | — | [🌍 Live](https://huggingface.co/spaces/abusufian-dev/bangladesh-flood-risk-checker) |
+| Flood Early Warning | CHIRPS Rainfall + ML | 88.70% | [GitHub](https://github.com/abusufian-dev/flood-early-warning-bangladesh) |
+| Remote Sensing & AI | Sundarbans + Flood mapping | — | [GitHub](https://github.com/abusufian-dev/remote-sensing-bd) |
+
+### 💡 Poverty Intelligence Series
+| Project | Description | Link |
+|---|---|---|
+| Night Light Poverty Map | Economic development tracking | [GitHub](https://github.com/abusufian-dev/night-light-poverty-bangladesh) |
+| Infrastructure Inequality | Development index analysis | [GitHub](https://github.com/abusufian-dev/infrastructure-inequality-bangladesh) |
+| Economic Growth Prediction | 2030 growth forecast | [GitHub](https://github.com/abusufian-dev/economic-growth-prediction-bangladesh) |
+
+### 🌱 Environment Series
+| Project | Description | Link |
+|---|---|---|
+| Water Quality ML | NH4 pollution — 44x spike found | [GitHub](https://github.com/abusufian-dev/river-water-quality-ml) |
 
 ---
 
@@ -31,22 +46,25 @@ Engineering at a globally recognized research university.
 
 ## 📊 GitHub Stats
 
-![Abu Sufian's GitHub stats](https://github-readme-stats.vercel.app/api?username=abusufian-dev&show_icons=true&theme=tokyonight)
+![Abu Sufian's GitHub stats](https://github-readme-stats.vercel.app/api?username=abusufian-dev&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abusufian-dev&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🎯 Currently Working On
 
-- 📄 Preparing flood prediction research for journal submission
-- 🏆 Kaggle competition participation (coming soon)
-- 🌱 Building Environment & Sustainability Club at Tongi Govt. College
+- 📊 Bangladesh Poverty Intelligence Series (3 projects)
+- 🏆 Kaggle competition (May 2026)
+- 🌱 Environment & Sustainability Club — Tongi Govt. College
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect
 
-[![LinkedIn](https://linkedin.com/in/abusufian-dev)
-[![Hugging Face](https://huggingface.co/abusufian-dev)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/AbuSufian_mr)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/abusufian-dev)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/abusufian-dev)
 
 ---
 
